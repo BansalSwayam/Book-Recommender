@@ -13,7 +13,12 @@ Similar book finder based on user preferences
 ## Tech Stack
 
 **Python**
+
 **Pandas**
+
 **NumPy**
+
 **Scikit-learn**
-Tool : **Jupyter Notebook*
+
+
+**Tool** : **Jupyter Notebook*
